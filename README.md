@@ -79,9 +79,6 @@ Incident Analysis
 
 ## 🌐 Connect With Me
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/muhammed-anzil-k-k-95a52736b/  
-- 📧 Email: anzilro046@gmail.com  
-
----
-
-<p align="center">⚡ "Think like an attacker. Defend like a pro."</p>
+- 🔗 [LinkedIn](https://www.linkedin.com/in/muhammed-anzil-k-k-95a52736b/)
+- 📧 [Email](mailto:anzilro046@gmail.com)
+- 💻 [GitHub](https://github.com/Anzilro)
