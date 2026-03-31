@@ -16,7 +16,7 @@
 
 ---
 
-## 🛰️ External Interface
+## 🛰️ Portfolio
 
 ```bash
 > initializing secure connection...
