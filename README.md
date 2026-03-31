@@ -16,6 +16,24 @@
 
 ---
 
+## 🛰️ External Interface
+
+```bash
+> initializing secure connection...
+> endpoint: anzilwork.lovable.app
+> status: ACCESS GRANTED
+```
+
+<p align="center">
+  <a href="https://anzilwork.lovable.app/" target="_blank">
+    <img src="https://img.shields.io/badge/ENTER_SYSTEM-000000?style=for-the-badge&logo=linux&logoColor=00ff00"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>🔗 Live Portfolio • Offensive Security Projects • Research Work</sub>
+</p>
+
 ## ⚔️ Tech Stack & Tools
 
 ### 🔍 Recon & Scanning
